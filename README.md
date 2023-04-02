@@ -2,7 +2,7 @@
 Virtual Shizuoka 3D Tiles on Smart Maps Bazaar
 
 # Demo
-- Kawazu on CloudFront: https://optgeo.github.io/smat-shizuoka/kawazu.html
+- Kawazu on CloudFront: https://optgeo.github.io/smart-shizuoka/kawazu.html
 
 # Issues
 https://github.com/optgeo/smart-shizuoka/issues
