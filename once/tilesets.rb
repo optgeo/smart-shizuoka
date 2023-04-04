@@ -8,9 +8,10 @@ def process_entry(entry)
       process_entry(entry)
     }
   else
-    print entry['name'], entry['type'], "\n"
+    # print entry['name'], entry['type'], "\n"
     if entry['type'] == '3d-tiles'
-      print JSON.pretty_generate(entry)
+      url = entry['url'].sub('/proxy/_1s/', '')
+      print url, "\n"
     end
   end
 end
