@@ -1,0 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: smart shizuoka
+description: Smart Maps Bazaar for Virtual Shizuoka
+show_downloads: false
